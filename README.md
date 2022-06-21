@@ -15,3 +15,5 @@ The length of the RSA keys is counted by linux commond wc as folloing:
 wc -c testkey                =>3243
 
 wc -c testkey.pub            => 748
+
+## create and switch branch with "git checkout -b branch-x"
