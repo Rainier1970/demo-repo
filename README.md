@@ -17,3 +17,5 @@ wc -c testkey                =>3243
 wc -c testkey.pub            => 748
 
 ## create and switch branch with "git checkout -b branch-x"
+
+creat brach-A , it is a kind of software sandbox
